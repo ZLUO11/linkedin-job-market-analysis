@@ -1,0 +1,11 @@
+# Large data files - download from Kaggle
+postings.csv
+salaries.csv
+job_skills.csv
+skills.csv
+industries.csv
+companies.csv
+tableau_export.csv
+
+# System files
+.DS_Store
