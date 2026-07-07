@@ -73,6 +73,9 @@ CASE WHEN, HAVING, NULLIF, multi-table JOINs
 
 5 Python charts (Matplotlib) + Tableau Public dashboard
 
+#### Dashboard
+Tableau Public: https://public.tableau.com/app/profile/zifei.luo/viz/USJobMarketAnalysis-LinkedIn2023-2024/Dashboard2
+
 ---
 
 ## Key Insights
