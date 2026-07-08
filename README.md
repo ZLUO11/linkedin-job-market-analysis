@@ -1,4 +1,4 @@
-# US Job Market Analysis - LinkedIn 2023-2024
+# US Job Market Analysis - LinkedIn 2024
 
 What does the US job market look like across 123,000+ LinkedIn postings?
 This project analyzes skill demand, salary distribution, geographic patterns,
@@ -36,7 +36,7 @@ and remote work premiums using SQL, Python, and Tableau.
 
 ## Data Source
 
-LinkedIn Job Postings 2023-2024
+LinkedIn Job Postings (March-April)
 https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
 
 6 CSV files merged into SQLite with 5 tables:
@@ -104,7 +104,7 @@ Executive roles have only 32.6% apply rate.
   absence does not confirm on-site
 - Skills taxonomy uses 35 broad categories; granular skills
   such as Python or SQL are not captured separately
-- Data covers 2023-2024; current market conditions may differ
+- Data only covers 2024 (Mar-Apr) ; current market conditions may differ
 
 ---
 
